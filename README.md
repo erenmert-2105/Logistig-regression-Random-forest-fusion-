@@ -1,7 +1,6 @@
 # Logistig-regression-Random-forest
-i use randon forest over lr for classification sadly my data is lost, data is paramters of working java program with diffrent platforms.
-As a result of these paramters error-errors accure or not.
+I was working with data consisting of parameters from a Java program running on different platforms. Unfortunately, this data has been lost. These parameters were used to determine whether errors would occur during the program's execution.
 
-first Lr finds there will be error with given parameters or not then with errored data how many error is occurred is find with random forest
-for first algorthm, i use diffrent algorthm written(gapper) by me and thanks to that i have %100 accurcy 
-however on website like %70 accurcy is expected is said.
+Initially, I used a logistic regression (LR) algorithm to predict if errors would occur based on the given parameters. Then, for the errored data, I employed a random forest algorithm to determine the number of errors that would occur.
+
+For the first algorithm, I utilized a different algorithm called "gapper," which I developed myself. Thanks to this, I achieved 100% accuracy. However, websites suggest that an accuracy of around 70% is expected.
